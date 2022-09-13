@@ -15,5 +15,5 @@ spec:
     controller:
       image:
         repository: k8s.gcr.io/ingress-nginx/controller
-        tag: "v1.1.1"
+        tag: "v1.1.2"
       replicaCount: 2
