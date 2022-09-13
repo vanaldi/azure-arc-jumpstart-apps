@@ -15,7 +15,7 @@ spec:
     image:
       repository: azurearcjumpstart.azurecr.io/hello-arc-gitops
       tag: latest
-    replicaCount: 4
+    replicaCount: 6
     env:
       name: MESSAGE
       value: Hello: deploying to AKS on Windows IoT GitOps!
